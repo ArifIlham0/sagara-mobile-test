@@ -18,7 +18,7 @@ This project was built using these technologies.
 git clone https://github.com/ArifIlham0/sagara-mobile-test.git
 ```
 ```sh
-git add *
+cd sagara-mobile-test
 ```
 ```sh
 flutter pub get
