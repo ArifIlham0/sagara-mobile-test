@@ -1,20 +1,42 @@
-<<<<<<< HEAD
-# sagara-mobile-test
-=======
-# weather_forecast_sagara_test
+<h2 align="center">
+  Weather Forecast<br/>
+  <a>With Flutter</a>
+</br>
+  <a href="https://www.arifilham.my.id" target="_blank">By Muhammad Arif Ilham</a>
+</h2>
 
-A new Flutter project.
+</br>
+
+## Built With
+
+This project was built using these technologies.
+
+- Flutter
+- OpenWeather
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```sh
+git clone https://github.com/ArifIlham0/sagara-mobile-test.git
+```
+```sh
+git add *
+```
+```sh
+flutter pub get
+```
+```sh
+CTRL + F5 or flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+</br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 047728a (first commit)
+<center>
+  
+![Weather](https://github.com/user-attachments/assets/2f940085-5959-44a3-a4b4-26737b31d74b)
+
+</center>
+
+<br/>
