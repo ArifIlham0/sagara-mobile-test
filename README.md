@@ -5,8 +5,6 @@
   <a href="https://www.arifilham.my.id" target="_blank">By Muhammad Arif Ilham</a>
 </h2>
 
-</br>
-
 ## Built With
 
 This project was built using these technologies.
